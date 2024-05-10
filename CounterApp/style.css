@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.decrement{
+    color: wheat;
+    background-color: red; 
+
+}
+
+.increment{
+    color: wheat;
+    background-color: green;
+
+}
+
+.reset{
+    
+}
